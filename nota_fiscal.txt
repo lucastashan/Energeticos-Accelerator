@@ -1,0 +1,10 @@
+Cliente:Supermercado Dosul
+ICMS: R$283.50; IPI: R$63.00; PIS: R$29.29; COFINS: R$134.51; TOTAL(COM DESCONTO): R$1975.05;
+
+Cliente:Super Zottis
+ICMS: R$324.00; IPI: R$72.00; PIS: R$33.48; COFINS: R$153.72; TOTAL(COM DESCONTO): R$2239.20;
+
+Total impostos: R$1093.50
+Total mercadorias: R$3120.75
+Total desconto: R$254.25
+Total geral: R$3960.00

@@ -1,0 +1,2 @@
+Supermercado Dosul; 350;
+Super Zottis; 400;
